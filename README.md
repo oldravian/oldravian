@@ -13,8 +13,6 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png" alt="AWS" width="60" height="40"/> </a>
 </p>
 
-[![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=oldravian&count_private=true&show_icons=true&hide=stars)](https://github.com/oldravian)
-
 
 <p>🔭 I'm currently looking for a remote full/part-time job</b></p>
 
