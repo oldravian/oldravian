@@ -14,6 +14,6 @@
 </p>
 
 
-<p>🔭 I'm currently looking for a remote full/part-time job</b></p>
+<p>🔭 I'm currently looking for a remote full/part-time job. I'm an independent professional, with no affiliations to any agencies. I'm available to work in Eastern Time (US & Canada) (UTC-4) from 7 AM - 11 PM.</b></p>
 
 <p>📧 You can reach me at <a href="mailto:chaudryhabib2@gmail.com"><b>chaudryhabib2@gmail.com</b></a></p>
